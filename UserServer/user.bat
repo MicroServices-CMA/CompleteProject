@@ -1,0 +1,1 @@
+java -classpath v2.0UsersServer.jar usersMicroService.Main
